@@ -1,0 +1,136 @@
+{
+  "name": "Dark",
+  "type": "dark",
+  "colors": {
+    "editor.background": "#1E1F22",
+    "editor.foreground": "#BCBEC4",
+    "editor.selectionBackground": "#2A3236",
+    "editorCursor.foreground": "#CED0D6",
+    "editorLineNumber.foreground": "#4B5059",
+    "editorLineNumber.activeForeground": "#A1A3AB",
+    "editor.lineHighlightBackground": "#26282E",
+    "editorGutter.background": "#171B1E",
+    "editorGutter.border": "#111416",
+    "editor.findMatchHighlightBackground": "#4DD65D2E",
+    "editorGhostText.foreground": "#74838B",
+    "editorBracketMatch.border": "#74838B",
+    "editorBracketMatch.background": "#552A3236",
+    "editorSuggestWidget.background": "#2B2D30",
+    "editorSuggestWidget.selectedBackground": "#2A3236",
+    "editorSuggestWidget.foreground": "#E4E1DB",
+    "editorSuggestWidget.highlightForeground": "#D65D2E",
+    "editorSuggestWidget.border": "#14181A",
+    "editorHoverWidget.background": "#1C2124",
+    "editorHoverWidget.foreground": "#E4E1DB",
+    "editorHoverWidget.border": "#14181A",
+    "editorError.foreground": "#DF4B5A",
+    "editorWarning.foreground": "#E6B450",
+    "editorInfo.foreground": "#389ECA",
+    "editorHint.foreground": "#74838B",
+    "editorGutter.errorForeground": "#DF4B5A",
+    "editorGutter.warningForeground": "#E6B450",
+    "editorGutter.codeActionForeground": "#E6B450",
+    "panel.background": "#1E1F22",
+    "panelTitle.activeBackground": "#111416",
+    "panel.foreground": "#E4E1DB",
+    "panel.border": "#14181A",
+    "editorCodeLens.foreground": "#74838B",
+    "ui.primary": "#3574F0",
+    "ui.secondary": "#6CA1B8",
+    "ui.neutral1": "#BCBEC4",
+    "ui.neutral2": "#F3F5F7",
+    "ui.neutral3": "#E8ECEF",
+    "ui.neutral4": "#4B5059",
+    "ui.neutral5": "#343839",
+    "ui.neutral6": "#1E1F22",
+    "ui.neutral7": "#0B0B0B",
+    "symbolIcon.methodForeground": "#389ECA",
+    "symbolIcon.functionForeground": "#389ECA",
+    "symbolIcon.fieldForeground": "#54B09E",
+    "symbolIcon.classForeground": "#D8A25E",
+    "symbolIcon.interfaceForeground": "#D8A25E",
+    "symbolIcon.moduleForeground": "#D8A25E",
+    "symbolIcon.keywordForeground": "#C792EA",
+    "symbolIcon.snippetForeground": "#87B379",
+    "diffEditor.insertedTextBackground": "#549159",
+    "diffEditor.modifiedTextBackground": "#375FAD",
+    "diffEditor.removedTextBackground": "#868A91",
+    "editorIndentGuide.background": "#313438",
+    "editorIndentGuide.activeBackground": "#666870"
+  },
+  "tokenColors": {
+    "keyword": {
+      "foreground": "#CF8E6D"
+    },
+    "string": {
+      "foreground": "#6AAB73"
+    },
+    "number": {
+      "foreground": "#2AACB8"
+    },
+    "comment": {
+      "foreground": "#7A7E85"
+    },
+    "type": "#E4E1DB",
+    "class": {
+      "foreground": "#BCBEC4"
+    },
+    "enum": "#D8A25E",
+    "interface": "#D8A25E",
+    "struct": "#D8A25E",
+    "function": {
+      "foreground": "#BCBEC4"
+    },
+    "variable": {
+      "foreground": "#BCBEC4"
+    },
+    "property": {
+      "foreground": "#C77DBB"
+    },
+    "typeParameter": "#54B09E",
+    "staticMethod": {
+      "foreground": "#57AAF7",
+      "fontWeight": "normal",
+      "fontStyle": "italic"
+    },
+    "staticProperty": {
+      "foreground": "#C77DBB",
+      "fontWeight": "normal",
+      "fontStyle": "italic"
+    },
+    "readonlyProperty": "#C792EA",
+    "regexp": "#54B09E",
+    "documentationComment": {
+      "foreground": "#5F826B",
+      "fontWeight": "normal",
+      "fontStyle": "italic"
+    },
+    "escapeSequence": {
+      "foreground": "#CF8E6D"
+    },
+    "annotation": {
+      "foreground": "#B3AE60"
+    },
+    "operator": {
+      "foreground": "#BCBEC4"
+    },
+    "punctuation": {
+      "foreground": "#BCBEC4"
+    },
+    "constant": {
+      "foreground": "#C77DBB",
+      "fontWeight": "normal",
+      "fontStyle": "italic"
+    },
+    "plain": {
+      "foreground": "#BCBEC4",
+      "background": "#1E1F22"
+    },
+    "functionDeclaration": {
+      "foreground": "#56A8F5"
+    },
+    "method": {
+      "foreground": "#57AAF7"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+id: lumide_jetbrains_themes
+name: JetBrains Themes
+description: >
+  JetBrains Themes plugin for the Lumide IDE.
+entry_point: 'bin/main.dart'
+executable: false
+
+contributes:
+  themes:
+    - id: jetbrains-islands-dark
+      label: JetBrains Islands Dark
+      uiTheme: dark
+      path: assets/themes/islands-dark.json
+    - id: jetbrains-islands-light
+      label: JetBrains Islands Light
+      uiTheme: light
+      path: assets/themes/islands-light.json
+    - id: jetbrains-darcula
+      label: JetBrains Darcula
+      uiTheme: dark
+      path: assets/themes/darcula.json
+    - id: jetbrains-dark
+      label: JetBrains Dark
+      uiTheme: dark
+      path: assets/themes/dark.json
+    - id: jetbrains-light
+      label: JetBrains Light
+      uiTheme: light
+      path: assets/themes/light.json
+
+permissions: []

@@ -1,0 +1,125 @@
+{
+  "name": "Islands Light",
+  "type": "light",
+  "colors": {
+    "editor.background": "#FFFFFF",
+    "editor.foreground": "#080808",
+    "editor.selectionBackground": "#A6D2FF",
+    "editorCursor.foreground": "#D65D2E",
+    "editorLineNumber.foreground": "#AEB3C2",
+    "editorLineNumber.activeForeground": "#767A8A",
+    "editor.lineHighlightBackground": "#F5F8FE",
+    "editorGutter.background": "#FFFFFF",
+    "editorGutter.border": "#D6CEC2",
+    "editor.findMatchHighlightBackground": "#4DD65D2E",
+    "editorGhostText.foreground": "#889096",
+    "editorBracketMatch.border": "#889096",
+    "editorBracketMatch.background": "#55E4DED4",
+    "editorSuggestWidget.background": "#FFFFFF",
+    "editorSuggestWidget.selectedBackground": "#E4DED4",
+    "editorSuggestWidget.foreground": "#2A2F33",
+    "editorSuggestWidget.highlightForeground": "#D65D2E",
+    "editorSuggestWidget.border": "#D6CEC2",
+    "editorHoverWidget.background": "#F8F6F1",
+    "editorHoverWidget.foreground": "#2A2F33",
+    "editorHoverWidget.border": "#D6CEC2",
+    "editorError.foreground": "#D1394B",
+    "editorWarning.foreground": "#B07D10",
+    "editorInfo.foreground": "#217B9E",
+    "editorHint.foreground": "#889096",
+    "editorGutter.errorForeground": "#D1394B",
+    "editorGutter.warningForeground": "#B07D10",
+    "editorGutter.codeActionForeground": "#B07D10",
+    "panel.background": "#EFEBE3",
+    "panelTitle.activeBackground": "#E4DED4",
+    "panel.foreground": "#2A2F33",
+    "panel.border": "#D6CEC2",
+    "editorCodeLens.foreground": "#889096",
+    "ui.primary": "#2464DC",
+    "ui.secondary": "#6CA1B8",
+    "ui.neutral1": "#FFFFFF",
+    "ui.neutral2": "#F8F6F1",
+    "ui.neutral3": "#E4DED4",
+    "ui.neutral4": "#AEB3C2",
+    "ui.neutral5": "#6C7275",
+    "ui.neutral6": "#2A2F33",
+    "ui.neutral7": "#080808",
+    "symbolIcon.methodForeground": "#217B9E",
+    "symbolIcon.functionForeground": "#217B9E",
+    "symbolIcon.fieldForeground": "#1C6B5A",
+    "symbolIcon.classForeground": "#946513",
+    "symbolIcon.interfaceForeground": "#946513",
+    "symbolIcon.moduleForeground": "#946513",
+    "symbolIcon.keywordForeground": "#9E45AA",
+    "symbolIcon.snippetForeground": "#386E2F",
+    "diffEditor.insertedTextBackground": "#7FC784",
+    "diffEditor.modifiedTextBackground": "#88ADF7",
+    "diffEditor.removedTextBackground": "#767A8A",
+    "editorIndentGuide.background": "#EBECF0",
+    "editorIndentGuide.activeBackground": "#AEB3C2"
+  },
+  "tokenColors": {
+    "keyword": {
+      "foreground": "#0033B3"
+    },
+    "string": {
+      "foreground": "#067D17"
+    },
+    "number": {
+      "foreground": "#1750EB"
+    },
+    "comment": {
+      "foreground": "#8C8C8C",
+      "fontWeight": "normal",
+      "fontStyle": "italic"
+    },
+    "type": "#2A2F33",
+    "class": "#946513",
+    "enum": "#946513",
+    "interface": "#946513",
+    "struct": "#946513",
+    "function": "#1C6788",
+    "variable": "#2A2F33",
+    "property": {
+      "foreground": "#871094"
+    },
+    "typeParameter": "#1C6B5A",
+    "staticMethod": {
+      "foreground": "#00627A",
+      "fontWeight": "normal",
+      "fontStyle": "italic"
+    },
+    "staticProperty": {
+      "foreground": "#871094",
+      "fontWeight": "normal",
+      "fontStyle": "italic"
+    },
+    "readonlyProperty": "#9E45AA",
+    "regexp": "#1C6B5A",
+    "documentationComment": {
+      "foreground": "#8C8C8C",
+      "fontWeight": "normal",
+      "fontStyle": "italic"
+    },
+    "escapeSequence": {
+      "foreground": "#0037A6"
+    },
+    "annotation": {
+      "foreground": "#9E880D"
+    },
+    "operator": "#1C6B5A",
+    "punctuation": "#2A2F33",
+    "constant": {
+      "foreground": "#871094",
+      "fontWeight": "normal",
+      "fontStyle": "italic"
+    },
+    "plain": {
+      "foreground": "#080808",
+      "background": "#FFFFFF"
+    },
+    "functionDeclaration": {
+      "foreground": "#00627A"
+    }
+  }
+}

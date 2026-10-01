@@ -1,0 +1,18 @@
+name: lumide_jetbrains_themes
+description: "JetBrains themes for Lumide IDE, including Islands Dark, Islands Light, Darcula, Dark, and Light."
+version: 1.0.0+3
+homepage: https://lumide.dev
+repository: https://github.com/SoFluffyOS/lumide_jetbrains_themes
+
+topics:
+  - lumide-themes
+  - lumide-plugin
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  lumide_api: 1.11.0
+
+dev_dependencies:
+  lints: ^6.0.0

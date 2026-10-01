@@ -1,0 +1,131 @@
+{
+  "name": "Light",
+  "type": "light",
+  "colors": {
+    "editor.background": "#FFFFFF",
+    "editor.foreground": "#000000",
+    "editor.selectionBackground": "#5974AB",
+    "editorCursor.foreground": "#000000",
+    "editorLineNumber.foreground": "#999999",
+    "editorLineNumber.activeForeground": "#2A2F33",
+    "editor.lineHighlightBackground": "#FFFAE3",
+    "editorGutter.background": "#F0F0F0",
+    "editorGutter.border": "#D6CEC2",
+    "editor.findMatchHighlightBackground": "#4DD65D2E",
+    "editorGhostText.foreground": "#889096",
+    "editorBracketMatch.border": "#889096",
+    "editorBracketMatch.background": "#55E4DED4",
+    "editorSuggestWidget.background": "#F7F7F7",
+    "editorSuggestWidget.selectedBackground": "#E4DED4",
+    "editorSuggestWidget.foreground": "#2A2F33",
+    "editorSuggestWidget.highlightForeground": "#D65D2E",
+    "editorSuggestWidget.border": "#D6CEC2",
+    "editorHoverWidget.background": "#F8F6F1",
+    "editorHoverWidget.foreground": "#2A2F33",
+    "editorHoverWidget.border": "#D6CEC2",
+    "editorError.foreground": "#D1394B",
+    "editorWarning.foreground": "#B07D10",
+    "editorInfo.foreground": "#217B9E",
+    "editorHint.foreground": "#889096",
+    "editorGutter.errorForeground": "#D1394B",
+    "editorGutter.warningForeground": "#B07D10",
+    "editorGutter.codeActionForeground": "#B07D10",
+    "panel.background": "#FFFFFF",
+    "panelTitle.activeBackground": "#E4DED4",
+    "panel.foreground": "#2A2F33",
+    "panel.border": "#D6CEC2",
+    "editorCodeLens.foreground": "#889096",
+    "ui.primary": "#456DBE",
+    "ui.secondary": "#6CA1B8",
+    "ui.neutral1": "#FFFFFF",
+    "ui.neutral2": "#F8F6F1",
+    "ui.neutral3": "#E4DED4",
+    "ui.neutral4": "#999999",
+    "ui.neutral5": "#6C7275",
+    "ui.neutral6": "#2A2F33",
+    "ui.neutral7": "#000000",
+    "symbolIcon.methodForeground": "#217B9E",
+    "symbolIcon.functionForeground": "#217B9E",
+    "symbolIcon.fieldForeground": "#1C6B5A",
+    "symbolIcon.classForeground": "#946513",
+    "symbolIcon.interfaceForeground": "#946513",
+    "symbolIcon.moduleForeground": "#946513",
+    "symbolIcon.keywordForeground": "#9E45AA",
+    "symbolIcon.snippetForeground": "#386E2F",
+    "diffEditor.insertedTextBackground": "#C9DEC1",
+    "diffEditor.modifiedTextBackground": "#C3D6E8",
+    "diffEditor.removedTextBackground": "#9F9F9F",
+    "editorIndentGuide.background": "#E6E6E6",
+    "editorIndentGuide.activeBackground": "#C8C8C8"
+  },
+  "tokenColors": {
+    "keyword": {
+      "foreground": "#000080",
+      "fontWeight": "bold",
+      "fontStyle": "normal"
+    },
+    "string": {
+      "foreground": "#008000",
+      "fontWeight": "bold",
+      "fontStyle": "normal"
+    },
+    "number": {
+      "foreground": "#0000FF"
+    },
+    "comment": {
+      "foreground": "#808080",
+      "fontWeight": "normal",
+      "fontStyle": "italic"
+    },
+    "type": "#2A2F33",
+    "class": "#946513",
+    "enum": "#946513",
+    "interface": "#946513",
+    "struct": "#946513",
+    "function": "#1C6788",
+    "variable": {
+      "foreground": "#000000"
+    },
+    "property": {
+      "foreground": "#660E7A",
+      "fontWeight": "bold",
+      "fontStyle": "normal"
+    },
+    "typeParameter": "#1C6B5A",
+    "staticMethod": {
+      "fontWeight": "normal",
+      "fontStyle": "italic"
+    },
+    "staticProperty": {
+      "foreground": "#660E7A",
+      "fontWeight": "normal",
+      "fontStyle": "italic"
+    },
+    "readonlyProperty": "#9E45AA",
+    "regexp": "#1C6B5A",
+    "documentationComment": {
+      "foreground": "#808080",
+      "fontWeight": "normal",
+      "fontStyle": "italic"
+    },
+    "escapeSequence": {
+      "foreground": "#000080",
+      "fontWeight": "bold",
+      "fontStyle": "normal"
+    },
+    "annotation": {
+      "foreground": "#808000"
+    },
+    "operator": "#1C6B5A",
+    "punctuation": "#2A2F33",
+    "constant": {
+      "foreground": "#660E7A",
+      "fontWeight": "bold",
+      "fontStyle": "italic"
+    },
+    "plain": {
+      "foreground": "#000000",
+      "background": "#FFFFFF"
+    }
+  }
+}
